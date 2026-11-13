@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src=".github/Chalkboard Classroom Banner (1).png" alt="Banner" />
+  <img width="100%" src=".github/Chalkboard Classroom Banner (2).png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Shanto Kumar Das 👋</h1>
