@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Shanto Kumar Das 👋</h1>
 
-<h3 align="center">Frontend Developer | React.js & Next.js</h3>
+<h3 align="center">Junior Full Stack Developer | Next.js, Node.js & MongoDB</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
@@ -13,24 +13,25 @@
 <h2>About Me 👨‍💻</h2>
 
 <p>
-  I'm a Frontend Developer who enjoys turning ideas into clean, responsive,
-  and user-friendly web applications. I mainly work with React.js, Next.js,
-  and TypeScript, and I'm always looking for ways to improve my problem-solving
-  and development skills. Currently working toward becoming a Full Stack
-  Developer by strengthening my backend skills alongside frontend development.
+  I'm a Junior Full Stack Developer with 1+ year of professional frontend
+  experience in React.js and Next.js. I enjoy turning ideas into clean,
+  responsive, and user-friendly web applications, and I now build complete
+  products, from the user interface to secure REST APIs and databases, using
+  Next.js, Node.js, Express, and MongoDB.
 </p>
 
 <ul>
-  <li> Currently working with React.js, Next.js, and TypeScript.</li>
+  <li> Building full-stack applications with Next.js, Node.js, Express, and MongoDB.</li>
+  <li> Working with JWT authentication, OAuth, and ownership-based access control.</li>
+  <li> Turning Figma designs into responsive and reusable UI components.</li>
   <li> Exploring advanced state management and web performance.</li>
-  <li> Building modern and responsive web applications.</li>
-  <li> Practicing JavaScript and TypeScript to improve my problem-solving skills.</li>
 </ul>
 
 <h2>Connect with Me 🌐</h2>
 <div align="left">
   <a href="https://shantokumar.xyz" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" /></a>
+  <a href="https://github.com/shantokumarBD" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub logo" /></a>
   <a href="https://www.facebook.com/helloword5000/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook logo" /></a>
   <a href="https://www.youtube.com/@CodeCommandBD" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube logo" /></a>
   <a href="mailto:shantokumar00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" /></a>
@@ -55,6 +56,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
